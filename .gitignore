@@ -1,3 +1,7 @@
+#MNIST Datasets
+mnist_dataset/*.csv
+letters/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
