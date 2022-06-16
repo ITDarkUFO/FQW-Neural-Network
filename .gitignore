@@ -1,6 +1,5 @@
-#MNIST Datasets
-mnist_dataset/*.csv
-letters/
+#MNIST Dataset
+*/mnist_dataset/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
